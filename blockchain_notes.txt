@@ -1,0 +1,3 @@
+A blockchain is a distributed ledger maintained by a network of nodes.
+Blocks contain transactions and are linked through cryptographic hashes.
+Consensus mechanisms like proof of work and proof of stake secure the network.
